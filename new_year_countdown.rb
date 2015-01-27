@@ -1,3 +1,4 @@
+#adding some notes to this bitch!!
 #Initializes, fills (with 0 to 10), and reverses the array.
 countdown_array = []
 (0..10).each{|x| countdown_array.push(x)}
